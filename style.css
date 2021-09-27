@@ -1,0 +1,30 @@
+   
+* {
+    letter-spacing: 0.2rem;
+}
+
+#git_icon {
+    height: 50px;
+    width: 40px;
+}
+
+body {
+    padding-top: 60px;
+    height: 100vh;
+}
+
+.rounded_pill {
+    border-radius: 10%;
+    height: 70vh;
+}
+
+.search {
+    height: 3rem;
+    width: 70%;
+    border-radius: 10px;
+}
+
+.middle {
+    height: 20vh;
+    border-radius: 10px;
+}
